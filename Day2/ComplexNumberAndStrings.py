@@ -1,3 +1,4 @@
+
 #complex number
 cn=10+67j
 print(cn)
@@ -15,4 +16,3 @@ print(s[4])
 
 #raw strings
 print('C:\new\text.txt')
-print(r'C:\new\text.txt')
