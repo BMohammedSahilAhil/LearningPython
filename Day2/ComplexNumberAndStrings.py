@@ -16,4 +16,3 @@ print(s[4])
 
 #raw strings
 print('C:\new\text.txt')
-print(r'C:\new\text.txt')
